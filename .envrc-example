@@ -1,0 +1,2 @@
+export PRIVATE_KEY=<any your private key>
+export ALCHEMY_API_KEY=<your alchemy API key>

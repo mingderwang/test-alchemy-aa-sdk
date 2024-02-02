@@ -1,5 +1,6 @@
 {
-  "name": "test-aa-sdk",
+  "name": "test-alchemy-aa-sdk",
+  "version": "0.0.1",
   "module": "index.ts",
   "type": "module",
   "scripts": {
